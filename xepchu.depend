@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1526579425 source:c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\main.cpp
+	<iostream>
+	"wellcome.h"
+	"xuligame.h"
+	"giaodien.h"
+
+1526616714 source:c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\wellcome.cpp
+	"wellcome.h"
+
+1526617302 c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\wellcome.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string>
+	<fstream>
+	<conio.h>
+	<conio.h>
+	<algorithm>
+
+1526579570 source:c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\xuligame.cpp
+	"xuligame.h"
+
+1526617397 c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\xuligame.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+	<vector>
+	<algorithm>
+
+1526461517 source:c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\game.cpp
+	"game.h"
+
+1526461067 c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\game.h
+	"wellcome.h"
+	"xuligame.h"
+	"giaodien.h"
+
+1526617299 c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\giaodien.h
+	<ctime>
+	<windows.h>
+	"xuligame.h"
+
+1526616983 source:c:\users\administrator\desktop\secretword\xepchu\xepchu\xepchu\giaodien.cpp
+	"giaodien.h"
+
