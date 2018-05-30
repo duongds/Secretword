@@ -1,11 +1,9 @@
 # Secretword
 How to code?
-Game dựa trên ý tưởng của trò chơi Word Shuffle.
-Luật chơi : Sắp xếp các chữ cái cho trước để được một từ tiếng anh có nghĩa. Nếu người chơi đoán đúng sẽ được cộng thêm 10d. Nếu người chơi đoán sai quá 8 lần thì game over.
-Các hàm chủ yếu:
-+ Hàm chọn từ bất kì trong danh sách từ.
-+ Hàm đảo lộn vị trí các chữ cái của từ.
-+ Hàm in các chữ cái theo thứ tự lộn xộn ra màn hình.
-+ Hàm nhập từ người chơi đoán từ bàn phím.
-+ Hàm so sánh 2 từ.
-
+Tên game: Xếp Chữ.
+Tác giả: Bùi Nguyễn Minh Dương.
+Thời Gian hoàn thành: 2 tuần.
+Luật chơi: Người chơi cần đoán đúng 1 từ tiếng anh đã được đảo lộn vị trí. Nếu người chơi đoán đúng sẽ được tăng 10 điểm vào quỹ điểm. Nếu người chơi đoán sai quá 8 lần trò chơi sẽ kết thúc.
+Hướng phát triển:
++ Phát triển để đoán 1 cụm từ mà vị trí các chữ của từ trong cụm bị đảo lộn( vị trí các từ trong cụm vẫn giữ nguyên.
++ Với các chữ cái nhất định có thể ghép thành nhiều từ.
