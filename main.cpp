@@ -16,7 +16,7 @@ int main()
     TaoKhung();
     KetNoi();
     inSoLieu(diem,Solansai);
-    while(Solansai!=Solansaitoida)
+    Vonglap: do while(Solansai!=Solansaitoida)
     {
     string tubian = Chontu(DATA_FILE);
     string lonxon = randomViTri(tubian);
@@ -28,7 +28,9 @@ int main()
     {
         diem+=10;
     }
-    else Solansai+=1;
+    else{
+        Solansai+=1;
+        goto Vonglap;}
     inSoLieu(diem,Solansai);
     }
     Gameover(diem);
